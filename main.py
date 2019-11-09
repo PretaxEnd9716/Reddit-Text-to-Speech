@@ -3,7 +3,7 @@ import pyttsx3
 
 
 def get_link():
-    print('hello0')
+    link = input('Please manually enter the link to the reddit post: ') 
 
 
 def get_data():
